@@ -6,7 +6,7 @@ import WeatherCard from './components/component';
 function App() {
   return (
     <div className="App">
-      <WeatherCard/>
+      <WeatherCard temp ="12"/>
     </div>
   )
 }
